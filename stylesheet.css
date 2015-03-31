@@ -1,0 +1,87 @@
+body {
+  margin: 0 auto;
+}
+
+.row {
+  width: 100%;
+}
+
+.bottom-of-post {
+}
+
+.page-wrap {
+  padding: 20px 0;
+}
+
+.menu-wrap {
+  background: #aeaeae;
+  position: absolute;
+}
+
+.post-wrap {
+  padding: 30px;
+  background: #aeaeae;
+}
+
+.fullWidth {
+   width: 100%;
+   margin-left: auto;
+   margin-right: auto;
+   max-width: initial;
+}
+
+
+.top-of-post {
+  background: #FFFFFF;
+  padding: 30px;
+}
+
+.bottom-of-post ul {
+  list-style: none;
+  margin: 0 0 0 30px;
+}
+
+.bottom-of-post ul li {
+  display: inline-block;
+  padding: 15px 10px;
+}
+
+.bottom-of-post li a {
+  text-decoration: none;
+}
+
+.bottom-of-post a:hover {
+  text-decoration: underline;
+  color: #000000;
+}
+
+.side-foot ul {
+  list-style: none;
+  padding: 0;
+}
+
+.side-foot ul li {
+  padding: 5px 0;
+  margin: 10px 0;
+  border-bottom: 1px solid gray;
+}
+
+.side-foot ul li a:hover {
+  color: black;
+}
+
+h2 {
+  padding: 10px 0;
+}
+
+h3 {
+  padding: 10px 0;
+}
+
+
+
+
+
+$mobileBreakpoint {
+  width: 100%;
+}
